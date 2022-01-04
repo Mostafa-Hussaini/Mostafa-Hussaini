@@ -7,9 +7,9 @@
 - 📫 How to reach me: mostafaislami2019@gmail.com.
 
 My abilities:
-| Front-end | Back-end | Technologies |Database |
+| Front-end | Back-end | Technologies |Database   |
 | :---         |     :---:      | :---:|---: |
-| HTML, CSS, Bootstrap, Javascript(react.js) and JQuery   | PHP(Wordpress,Laravel) and Strapi     |Ajax    | Mysql , Mongodb |
+| HTML, CSS, Bootstrap, Javascript(react.js) and JQuery   | PHP( Wordpress , Laravel ) and Strapi     |Ajax    | Mysql , Mongodb |
 
 About me:
 
