@@ -13,4 +13,4 @@ My abilities:
 
 About me:
 
-I am currently student, studing computer science at Herat University. I have more than 2 years of work experience in wordpress development and more than 3 years experience in web design.
+I am currently student, studying Computer Science at Herat University. I have about 2 years of work experience in wordpress development and more than 3 years experience in web design.
