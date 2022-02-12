@@ -9,7 +9,7 @@
 My abilities:
 | Front-end | Back-end | Technologies |  Database |
 | :---         |     :---:      | :---:|---: |
-| HTML, CSS, Bootstrap, Javascript , ReactJs(NextJs) and JQuery   | PHP( Wordpress , Laravel ) and Strapi     |Ajax    | Mysql , Mongodb |
+| HTML, CSS, Bootstrap, Javascript , ReactJs(NextJs) and JQuery   | PHP( Wordpress , Laravel ) and Strapi     |Ajax, Git, Postman    | Mysql , Mongodb |
 
 About me:
 
