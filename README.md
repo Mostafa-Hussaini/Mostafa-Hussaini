@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on a woocommerce Website.
-- 🌱 I’m currently learning next.js.
-- 🤔 I’m looking for help with wordpress.
+- 🌱 I’m currently working different projects.
 - 📫 How to reach me: mostafaislami2019@gmail.com.
 
 My abilities:
