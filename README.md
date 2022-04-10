@@ -5,12 +5,6 @@
 - 🌱 I’m currently working different projects.
 - 📫 How to reach me: mostafaislami2019@gmail.com.
 
-## &#x1f4c8; GitHub Status 
-
-<a href="https://github.com/Mostafa-Hussaini/Mostafa-Hussaini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Hussaini&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mostafa's GitHub Status" />
-</a>
-
 My abilities:
 | Front-end | Back-end | Technologies |  Database |
 | :---         |     :---:      | :---:|---: |
