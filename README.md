@@ -7,7 +7,7 @@
 
 |GITHUB STATS|
 |:---:|
-|[![Zia Yamin's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Hussaini&count_private=true&show_icons=true&theme=react)](https://github.com/Mostafa-Hussaini/github-readme-stats)|
+|[![Mostafa Islami's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Hussaini&count_private=true&show_icons=true&theme=react)](https://github.com/Mostafa-Hussaini/github-readme-stats)|
 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
