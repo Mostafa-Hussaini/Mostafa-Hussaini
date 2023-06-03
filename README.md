@@ -1,7 +1,7 @@
 ### Hi there 👋 Thanks for visiting my git!
 
 
-- 🔭 I’m currently working with Laravel framework.
+- 🔭 I’m currently working with Nextjs framework.
 - 🌱 I’m currently working different projects.
 - 📫 How to reach me: mostafaislami2019@gmail.com.
 
