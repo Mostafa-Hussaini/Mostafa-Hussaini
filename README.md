@@ -1,7 +1,7 @@
 ### Hi there 👋 Thanks for visiting my git!
 
 
-- 🔭 I’m currently working with Nextjs framework.
+- 🔭 I’m currently working with Laravel framework.
 - 🌱 I’m currently working different projects.
 - 📫 How to reach me: mostafaislami2019@gmail.com.
 
@@ -20,7 +20,7 @@
 My abilities:
 | Front-end | Back-end | Technologies |  Database |
 | :---         |     :---:      | :---:|---: |
-| HTML, CSS, Bootstrap, Javascript , ReactJs(NextJs) and JQuery   | PHP( Wordpress , Laravel )     |Ajax, Git, Postman    | Mysql , Mongodb |
+| HTML, CSS, Bootstrap, Tailwindcss, Javascript , ReactJs(NextJs) and JQuery   | PHP( Wordpress , Laravel )     |Ajax, Git, Postman    | Mysql , Mongodb |
 
 About me:
 
