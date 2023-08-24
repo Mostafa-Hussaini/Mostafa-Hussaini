@@ -16,9 +16,7 @@
 </a>
 
 <br>
----
-[![](https://visitcount.itsvg.in/api?id=Mostafa-Hussaini&icon=0&color=0)](https://visitcount.itsvg.in)
-
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
 
