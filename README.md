@@ -9,7 +9,9 @@
 # 📊 GitHub Stats:
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Hussaini&theme=blueberry&hide_border=false)<br/>
- 
+<a href="https://github.com/braydoncoyer/pomegradient">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-Hussaini&repo=Mostafa-Hussaini&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 ---
 [![](https://visitcount.itsvg.in/api?id=Mostafa-Hussaini&icon=0&color=0)](https://visitcount.itsvg.in)
 
