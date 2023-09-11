@@ -10,11 +10,6 @@
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Hussaini&theme=blueberry&hide_border=false)
 
-
-<a href="https://github.com/Mostafa-Hussaini">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Hussaini&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Mostafa's GitHub Stats" />
-</a>
-
 <br>
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
