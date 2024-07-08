@@ -27,4 +27,6 @@ My abilities:
 
 About me:
 
-I graduated from Herat University with a degree in Computer Science. I have more than 2 years of work experience in web design and development.
+I am a Computer Science graduate from Herat University with over three years of professional experience in web design and development. My expertise lies in creating dynamic and user-friendly websites, and I am passionate about leveraging technology to deliver innovative solutions.
+
+
